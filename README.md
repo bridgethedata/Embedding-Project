@@ -5,6 +5,9 @@ Welcome to the Embedding Project! This project demonstrates the use of embedding
 
 
 The project consists of the following key files:
+
 index.html: The main HTML file that structures the web page.
+
 app.js: JavaScript file containing the logic and functionality for interacting with embeddings.
+
 styles.css: CSS file for styling the web page.
